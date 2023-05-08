@@ -6,3 +6,4 @@ Utoworzenie klasy Context dzidziczącej bo DBContext
 Utworzenie DBsetów
 Skonfigurowanie połączenia z serwerem
 Konfiguracja połączeń
+![image](https://user-images.githubusercontent.com/109542805/236932297-3bd49e54-885d-4bed-901f-3cae5c03c63b.png)
