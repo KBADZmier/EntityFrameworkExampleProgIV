@@ -5,5 +5,7 @@ Nastepnym etapem było dodanie odpowienich relacji, które zostały na samymj po
 Utoworzenie klasy Context dzidziczącej bo DBContext
 Utworzenie DBsetów
 Skonfigurowanie połączenia z serwerem
-Konfiguracja połączeń
+Konfiguracja związków encji
+Przy pomocy konsoli menadżera pakietów, utowrzenie Migrations komenda "Add-Migrtation"
+Utworzenie bazy danych komendą "update-Database"
 ![image](https://user-images.githubusercontent.com/109542805/236932297-3bd49e54-885d-4bed-901f-3cae5c03c63b.png)
